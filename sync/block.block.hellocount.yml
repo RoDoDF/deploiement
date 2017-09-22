@@ -1,0 +1,20 @@
+uuid: c2e09d03-661e-437f-bc71-590e554bc6af
+langcode: en
+status: true
+dependencies:
+  module:
+    - hello
+  theme:
+    - bartik
+id: hellocount
+theme: bartik
+region: sidebar_first
+weight: 0
+provider: null
+plugin: hello_count_block
+settings:
+  id: hello_count_block
+  label: 'Hello count'
+  provider: hello
+  label_display: visible
+visibility: {  }

@@ -1,0 +1,13 @@
+uuid: 271b6737-9a42-43ca-b739-9c8017305e31
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: oRgp_u8dlvDViXyoDfrpyDe9jlhryUAK5egWJJoluQA
+name: 'Node type B'
+type: node_type_b
+description: ''
+help: ''
+new_revision: false
+preview_mode: 1
+display_submitted: true

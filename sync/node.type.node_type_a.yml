@@ -1,0 +1,13 @@
+uuid: fd08592e-da58-462e-9567-ecd3af68e236
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: _LtHNKlRiBss41pFh3pYCkhTyn-uTUV9R28ZvBdHjDE
+name: 'Node type A'
+type: node_type_a
+description: ''
+help: ''
+new_revision: false
+preview_mode: 1
+display_submitted: true
