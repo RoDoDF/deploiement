@@ -1,0 +1,17 @@
+uuid: f284242b-4c28-4d8a-ae1b-20cc2321311d
+langcode: en
+status: true
+dependencies: {  }
+id: dev
+label: dev
+folder: dev
+module:
+  devel: 0
+  devel_generate: 0
+  field_ui: 0
+theme: {  }
+blacklist: {  }
+graylist: {  }
+graylist_dependents: true
+graylist_skip_equal: true
+weight: 0
